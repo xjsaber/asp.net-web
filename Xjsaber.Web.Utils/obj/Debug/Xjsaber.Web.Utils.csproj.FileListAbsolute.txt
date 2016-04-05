@@ -1,0 +1,7 @@
+E:\WorkSpace\DotNet\asp.net-web\Xjsaber.Web.Utils\bin\Debug\Xjsaber.Web.Utils.dll
+E:\WorkSpace\DotNet\asp.net-web\Xjsaber.Web.Utils\bin\Debug\Xjsaber.Web.Utils.pdb
+E:\WorkSpace\DotNet\asp.net-web\Xjsaber.Web.Utils\bin\Debug\Xjsaber.Web.Utils.dll.CodeAnalysisLog.xml
+E:\WorkSpace\DotNet\asp.net-web\Xjsaber.Web.Utils\bin\Debug\Xjsaber.Web.Utils.dll.lastcodeanalysissucceeded
+E:\WorkSpace\DotNet\asp.net-web\Xjsaber.Web.Utils\obj\Debug\Xjsaber.Web.Utils.csprojResolveAssemblyReference.cache
+E:\WorkSpace\DotNet\asp.net-web\Xjsaber.Web.Utils\obj\Debug\Xjsaber.Web.Utils.dll
+E:\WorkSpace\DotNet\asp.net-web\Xjsaber.Web.Utils\obj\Debug\Xjsaber.Web.Utils.pdb
